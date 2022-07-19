@@ -22,5 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-Check:
+### Check:
 https://comfy-cannoli-1fa462.netlify.app/
